@@ -1,2 +1,3 @@
-# strapi-hello
-strapi deployment test
+# Strapi application
+
+A quick description of your strapi application
